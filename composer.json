@@ -1,12 +1,16 @@
 {
-  "name": "philippbaschke/acf-pro-installer",
-  "description": "An install helper for Advanced Custom Fields PRO",
+  "name": "heocoi/acf-pro-installer",
+  "description": "An install helper for Advanced Custom Fields PRO. Forked from PhilippBaschke/acf-pro-installer",
   "type": "composer-plugin",
   "license": "MIT",
   "authors": [
     {
       "name": "Philipp Baschke",
       "email": "philipp@baschke.com"
+    },
+    {
+      "name": "heocoi",
+      "email": "dev.hibiki@gmail.com"
     }
   ],
   "keywords": [
